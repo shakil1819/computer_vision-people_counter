@@ -18,7 +18,7 @@
 ### Instructions :
 - clone this repository : `https://github.com/shakil1819/computer_vision-people_counter.git`
 - Create conda environment : `conda create --name myenv python=3.10 && conda activate myenv`
-- Install the dependencies : `conda install -r requirements.txt`
+- Install the dependencies : `conda install -r requirements.txt`, then run `python3 main.py`
 - Run the main.py file to start the application
 - Select the video file from desired directoryand the regions of interest (ROI)
 - Click on the "Start Detection" button to start the processing
