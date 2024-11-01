@@ -28,4 +28,6 @@
 
 ![mermaid-diagram-2024-10-26-202921](https://github.com/user-attachments/assets/4d895011-7748-40bb-9c03-cb00c4d29221)
 
+## Breakdown of Implementation:
 
+![mermaid-diagram-2024-11-01-144022](https://github.com/user-attachments/assets/959d6e16-a804-4d10-815b-96ff56cdde79)
